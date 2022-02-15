@@ -1,0 +1,29 @@
+{
+  "name": "@alphadu/type",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Isaac.DU <isaac.du811@outlook.com>",
+  "homepage": "https://github.com/AlphaDu/alphadu#readme",
+  "license": "ISC",
+  "main": "lib/alphadu-type.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlphaDu/alphadu.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/AlphaDu/alphadu/issues"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.39"
+  }
+}
